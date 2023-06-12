@@ -1,0 +1,39 @@
+# default template gitignore file for base projects
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# code editors
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+#node/npm
+**/node_modules/*
+
+# User-specific files (VS)
+*.suo
+*.user
+*.sln.docstates
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
+
+#NuGet
+packages/
+
